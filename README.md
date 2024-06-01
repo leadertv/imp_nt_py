@@ -4,7 +4,7 @@
 
 ### Структура проекта
 ```
-accounting/
+imp_nt_py/
 |-- main.py
 |-- dirty_main.py
 |--- application/
