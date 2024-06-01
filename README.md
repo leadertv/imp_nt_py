@@ -7,13 +7,13 @@
 accounting/
 |-- main.py
 |-- dirty_main.py
-|-- application/
-|-- init.py
-|-- salary.py
-|-- db/
-|-- init.py
-|-- people.py
-|-- requirements.txt
+|-- -application/
+|-- --init.py
+|-- --salary.py
+|-- -db/
+|-- --init.py
+|-- --people.py
+|-- --requirements.txt
 ```
 
 
